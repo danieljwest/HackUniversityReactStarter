@@ -1,0 +1,13 @@
+{
+  "extends" : [
+      "airbnb"
+  ],
+  "env"     : {
+    "browser" : true
+  },
+  "rules": {
+    "semi" : [2, "never"],
+    "max-len": [2, 160, 2],
+    "no-var": 2
+  }
+}
